@@ -1,3 +1,14 @@
+/* Usando CSS externo */
 h1{
-    color:blue;
+    color:rgb(212, 105, 205);
+    font-size: 100px
+}
+h2{
+    color:rgb(129, 156, 255);
+    font-size: 100px;
+}
+
+p{
+    color:rgba(13, 185, 185, 0.854);
+    font-size: 50px;
 }

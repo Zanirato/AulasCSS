@@ -1,6 +1,6 @@
 ## AulasCSS
 
-#Arquivos desenvolvidos nas aulas de CSS!!
+# Arquivos desenvolvidos nas aulas de CSS!!
 
 * Exercício 01 - Utilizando CSS externo;
 * Exercício 02 - Utilizando CSS Inline;

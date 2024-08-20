@@ -1,0 +1,28 @@
+/* alterando cor por nome */
+.nome{
+    color:greenyellow;
+    background-color:blue; 
+}
+
+/* alterando cor por hexadecimal */
+.hexadecimal{
+    color:#ca03fc;
+    background-color:#580823;
+}
+.RGBA{
+    color:rgba(218, 179, 255, 1);
+    background-color:rgba(3, 13, 79, 1);
+}
+/* Alterando a segunda página */
+.titulo-background{
+    background-color:rgb(191, 43, 43);
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.div-background{
+    background-image: url(sonic2.jpg);
+    height: 800px;
+    width: 1600px;
+
+}

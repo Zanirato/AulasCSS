@@ -14,5 +14,6 @@
 * Exercício 10 - Utilizando a posição relativa;
 * Exercício 11 - Utilizando a posição absoluta;
 * Exercício 12 - Utilizando a posição fixa;
-* Exercício 13 - 
+* Exercício 13 - Utilizando posição sticky
+* Exercício 14 - 
  
